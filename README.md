@@ -2,9 +2,9 @@
 
 # Program Perhitungan Luas Lingkaran (Java)    
 ## Deskripsi  
-Program ini menggunakan bahasa pemrograman **Java**, terdiri dari dua kelas:  
-- 'Lingkaran' - berisi logika untuk menghitung lua lingkaran menggunakan rumus `PI * r * r`.
-- 'LingkaranBeraksi' - merupakan class utama (main class) yang menerima input dari pengguna dan memanggil method perhitungan.
+Program ini menggunakan bahasa pemrograman **Java**, terdiri dari dua folder:  
+- 'lingkaran' - berisi file 'Lingkaran' dan 'LingkaranBeraksi'.
+- 'lingkaranInput' - berisi file 'Lingkaran' dan 'LingkaranBeraksi'. Menggunakan `Scanner` sebagai input dari pengguna.
 
 ## Fitur  
 - Menghitung luas lingkaran dari jari-jari yang dimasukkan user.  
